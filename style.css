@@ -46,6 +46,7 @@ a {
     font-size: 1rem;
     color: black;
     font-weight: lighter;
+    line-height: 1.5;
 }
 .main-header {
     margin-bottom: 40px;
