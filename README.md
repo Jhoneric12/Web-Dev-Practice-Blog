@@ -1,3 +1,3 @@
 # Web-Dev-Practice-Blog
 
-link: https://samsan-tech-blog.netlify.app/
+Website link: https://samsan-tech-blog.netlify.app/
