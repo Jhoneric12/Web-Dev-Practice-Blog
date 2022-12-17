@@ -1,3 +1,3 @@
 # Web-Dev-Practice-Blog
 
-link: https://comfy-monstera-762582.netlify.app/
+link: https://samsan-tech-blog.netlify.app/
