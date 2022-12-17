@@ -1,0 +1,77 @@
+@import url(https://fonts.googleapis.com/css?family=Poppins);
+
+body {
+    font-family: 'Poppins', sans-serif, Arial, Helvetica, sans-serif;   
+    background-color: whitesmoke;
+    margin: 0;
+    line-height: 1.3;
+}
+header {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    letter-spacing: 1px;
+    margin-bottom: 60px;
+}
+.div-header {
+    width: 63em;
+}
+.div-header > img{
+    width: 60.5em;
+    margin-top: 15px;
+}
+.div-header > p {
+    font-size: 0.75rem;
+    color: rgb(170, 170, 170);
+}
+main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+main h1 {
+    letter-spacing: 2px;
+    margin-bottom: 10px;
+}
+main h2 {
+    letter-spacing: 2px;
+}
+a {
+    color: red;
+}
+.div-main {
+    width: 63em;
+}
+.div-main  > p {
+    font-size: 1rem;
+    color: black;
+    font-weight: lighter;
+}
+.main-header {
+    margin-bottom: 40px;
+}
+.main-header > .credits {
+    font-size: 0.75rem;
+    color: rgb(170, 170, 170);
+}
+.div-main > .credits {
+    font-size: 0.75rem;
+    color: rgb(170, 170, 170);
+}
+.div-main span {
+    font-weight: bold;
+    color: black;
+}
+.div-main > img{
+    margin-top: 15px;
+    width: 62.5em;  
+}
+footer > div{
+    display: flex;
+    padding: 0px;
+    justify-content: center;
+    margin-top: 50px;
+    color: white;
+    background-color: black;
+}
+
